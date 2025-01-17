@@ -34,7 +34,7 @@ This dashboard provides HR leaders with the tools to:
    - A detailed README explaining the project, dataset, and dashboard design.  
 
 4. **Screenshot**:  
-   ![HR Leadership Dashboard](path/to/your/image.png)  
+   ![HR Leadership Dashboard]('Dashboard Screenshot.png')  
 
 ---
 
